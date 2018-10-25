@@ -1,0 +1,24 @@
+Git is a distributed version-control system (DVCS) for tracking changes in computer files and coordinating work on those files among multiple people working on same project may or may not on different modules and packages.
+Git is easy to learn and it's performance is also fast. 
+
+
+Terminology of Git :- I know who did what, when and why!
+
+The Git is the need of any developer, we just can't resist it.
+Features of Git
+1) Branching and Merging
+2) Distributed
+3) Data Assurance
+4) Staging Area
+5) Free and open source
+
+
+Problems solved by Git
+1) When a code is written/developed by a Developer then he has that only code in his/her local repository and to share that file git is useful by providing the link of remote repository.
+
+2) When the development team contains more than one member then we can use the concept of branching and merging.
+
+3) The manager can keep track of history of commits.
+
+4) one can work on the copy of code without making changes in original main file.
+
