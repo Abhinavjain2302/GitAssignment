@@ -1,0 +1,9 @@
+Git Pull:-
+The git pull command is used to fetch and download content from a remote repository and immediately update the local repository to match that content.
+
+Pull command:- git pull
+
+Git pull with rebase:-
+We no longer merge--We actually commit on top of the remote branch. 
+
+command:- git pull --rebase
