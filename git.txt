@@ -20,5 +20,4 @@ Problems solved by Git
 
 3) The manager can keep track of history of commits.
 
-4) one can work on the copy of code without making changes in original main file.
 

@@ -6,4 +6,3 @@ Pull command:- git pull
 Git pull with rebase:-
 We no longer merge--We actually commit on top of the remote branch. 
 
-command:- git pull --rebase

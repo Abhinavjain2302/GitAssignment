@@ -3,4 +3,3 @@ A commit to a repository is a snapshot of the current state of the project's roo
 
 Commit Command - git commit -m "Some Commit Message"
 
-The "commit" command is used to save your changes to the local repository.

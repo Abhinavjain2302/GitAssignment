@@ -6,5 +6,5 @@ git rebase command- "git rebase origin/master"
 
 Above command will merge in the requested branch (origin/master here) and apply the commits that we have made locally to the top of the history without creating a merge commit.
 
-Git rebase will specializes in integrating changes from one branch onto another.
+
  

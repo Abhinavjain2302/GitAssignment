@@ -4,6 +4,6 @@ The git merge command takes the independent lines of development created by git 
 merge command- "git merge source_branch_name"
 
 The current branch will be updated to reflect the merge, but the target branch will be completely unaffected. 
-Git can automatically merge commits unless there are changes that conflict in both commit sequences.
+
 
 
